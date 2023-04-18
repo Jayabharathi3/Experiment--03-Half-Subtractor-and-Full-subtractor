@@ -69,6 +69,8 @@ HALF SUBTRACTOR
 ![image](https://user-images.githubusercontent.com/120367796/232836275-92dd9f57-eff3-47f5-9582-130af885bce1.png)
 
 FULL SUBTRACTOR
+
+
 ![image](https://user-images.githubusercontent.com/120367796/232836580-f225c66b-96e6-415f-b0ce-975cde621b25.png)
 
 
